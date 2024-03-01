@@ -1,0 +1,2 @@
+# THIS APP NEEDS TO BE MAKE EXECUTIBLE (chmod +x movement)
+CHANGE DA DIR TO \Contents\MacOS
